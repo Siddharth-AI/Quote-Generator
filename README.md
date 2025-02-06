@@ -44,9 +44,11 @@ A web-based application to display inspirational quotes fetched from an API. Thi
 ## Screenshot
 
 - desktop view ------------------
-  <img src='./screenshot/desktop.png'  width="800" height="400"/>
+
+   <img src='./screenshot/desktop.png'  width="800" height="400"/>
 
 - mobile view ------------------
+
    <img src='./screenshot/mobile.png'  width="400" height="500"/>
 
 
