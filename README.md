@@ -44,12 +44,11 @@ A web-based application to display inspirational quotes fetched from an API. Thi
 ## Screenshot
 
 - desktop view ------------------
-  
-![Screenshot 2025-01-19 145701](https://github.com/user-attachments/assets/448bb395-f938-4bcd-a9d4-ae9b9da14c9c)
+  <img src='./screenshot/desktop.png'  width="800" height="400"/>
 
 - mobile view ------------------
-  
-![7c7d45a4-d4fb-42dc-a1cb-b48938c676ee](https://github.com/user-attachments/assets/f774b851-642e-415c-80c4-f02968c7192c)
+   <img src='./screenshot/mobile.png'  width="400" height="500"/>
+
 
 ## License
 
